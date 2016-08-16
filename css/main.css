@@ -11,6 +11,8 @@ html {
 
 .container {
     min-width: 360px;
+    width: 80%;
+    margin: 0 auto;
 }
 
 .top-header {
@@ -46,7 +48,7 @@ html {
 }
 
 .banner {
-    height: 50vw;
+    height: 40vw;
     min-height: 180px;
     overflow: hidden;
     width: 100%;
