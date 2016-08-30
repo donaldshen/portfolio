@@ -1,0 +1,12 @@
+@media (max-width: 750px) {
+    .project {
+        width: calc((100% - 40px) / 2);
+        /*height: calc((100vw - 30px) / 4);*/
+    }
+}
+
+@media (max-width: 500px) {
+    .project {
+        width: calc(100% - 20px);
+    }
+}
