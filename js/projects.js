@@ -5,7 +5,7 @@
 */
 
 /** @global */
-var projects = {
+var projects = [
     {
         img: 'framework-test',
         alt: 'screenshot of this framework',
@@ -31,4 +31,4 @@ var projects = {
         description: '(template)',
     },
 
-};
+];
