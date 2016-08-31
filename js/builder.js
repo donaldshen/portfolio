@@ -4,9 +4,6 @@
 * @author Donald Shen <donald930224@hotmail.com>
 */
 
-/**
-* @global
-*/
 
 function buildProjectHTML(project) {
     var projectHTML = '<article class="project"><figure><picture><source media="(min-width: 750px)" srcset="img/%img%-large.jpg" /><source media="(min-width: 500px)" srcset="img/%img%-medium.jpg" /><img src="img/%img%-small.jpg" alt="%alt%" /></picture><figcaption><a class="zocial-github" href="%url%" target="_blank"></a>%description%</figcaption></figure></article>';
